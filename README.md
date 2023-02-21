@@ -1,1 +1,2 @@
-# myWeather
+# myWeather app project
+# using openweather
